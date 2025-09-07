@@ -1,0 +1,7 @@
+{
+  "best_score_roc_auc": 0.8527908913864708,
+  "best_params": {
+    "logistic__C": 0.1,
+    "logistic__class_weight": null
+  }
+}
